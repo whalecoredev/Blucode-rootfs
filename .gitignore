@@ -1,0 +1,11 @@
+# Large rootfs archives are distributed via Cloudflare R2 and GitHub Releases
+*.tar.gz
+*.tar.xz
+*.apk
+*.aab
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+.DS_Store
